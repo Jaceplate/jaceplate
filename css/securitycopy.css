@@ -1,0 +1,334 @@
+body {
+  background-color: #ebebea;
+}
+
+.avionesa {
+  font-size: 2.5rem;
+  margin-top: 1rem;
+  color: white;
+}
+
+.kaydet {
+  margin: auto;
+}
+
+.BottomContainer {
+  background-color: #B8F4CD;
+  margin-bottom: 0;
+  padding: 15px 0;
+  text-align: center;
+}
+
+.footer-copyright {
+  color: #68A1DF;
+  font-size: 0.75rem;
+  line-height: 2;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.footer-link {
+  margin: 10px 20px;
+}
+
+.titulos {
+  text-align: center;
+}
+
+.igico {
+  height: 200px;
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.linkins {
+  text-align: center;
+  margin: 1rem 1rem 1rem 1rem;
+}
+
+.boton {
+  border-radius: 25px
+}
+
+.flecha {
+  padding-left: 5.8rem;
+}
+
+.adelante:hover {
+  color: #f9f9f9;
+}
+
+.boton {
+  width: 65%;
+}
+
+.footer-link {
+  color: #68A1DF;
+}
+
+.fontlight {
+  font-family: Quicksand;
+  font-weight: 300;
+}
+
+.fontregular {
+  font-family: Quicksand;
+  font-weight: 400;
+}
+
+.fontmedium {
+  font-family: Quicksand;
+  font-weight: 500;
+}
+
+.fontsemibold {
+  font-family: Quicksand;
+  font-weight: 600;
+}
+
+.fontbold {
+  font-family: Quicksand;
+  font-weight: 700;
+}
+
+.titu {
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.cont {
+  vertical-align: middle
+}
+
+.con {
+  display: block;
+}
+
+.tit {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 50%;
+  height: auto;
+  font-weight: 900;
+  color: #68A1DF;
+}
+
+.fontgris {
+  color: #053d57;
+}
+
+.fontblanc {
+  color: white;
+}
+
+.botonx {
+  width: 100%;
+}
+
+.fontnav {
+  color: #053d57;
+  font-size: 120%;
+}
+
+.imgindex {
+  max-width: 100%;
+  height: auto;
+}
+
+.contindex1 {
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.contindex2 {
+  background-color: #72E99C;
+  margin-left: 0;
+  padding-left: 0;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, .6);
+}
+
+.p1index {
+/*display: inline-block;*/
+  vertical-align: middle;
+  text-align: center;
+}
+
+.h1index {
+  text-align: center;
+}
+
+.textindex1 {
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.rowindex1 {
+  margin-right: 0;
+}
+
+.containerx3 {
+  background-color: #68A1DF;
+}
+
+.imgindex1 {
+  max-width: 64%;
+  height: auto;
+  display: block;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.h32index {
+  padding: 2% 15% 2% 15%;
+}
+
+.azulclaro {
+  background-color: #ABCAED;
+}
+
+.verdeclaro {
+  background-color: #B8F4CD;
+}
+
+.cajafichas {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.outer {
+  display: table;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.middle {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.inner {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  text-align: center;
+}
+
+.containerx4 {
+  background-color: #72E99C;
+}
+
+.imgindex2 {
+  max-width: 64%;
+  height: auto;
+  display: block;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imgindex3 {
+  max-width: 80%;
+  height: auto;
+  display: block;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*I*/
+.whitebg {
+  background-color: white;
+}
+
+.padindex {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.innerci {
+  margin-right: auto;
+  margin-left: auto;
+  text-align: center;
+  width: 80%;
+}
+
+.mdfindex {
+  font-size: 500%;
+}
+
+.stindex {
+  font-size: 350%;
+}
+
+.bgmasmodelos {
+  background-color: #68A1DF;
+  margin-left: 0;
+  padding-left: 0;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, .6);
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.padkaydet {
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.padky {
+  margin-bottom: 0;
+}
+
+.shadowy {
+    box-shadow: 0 0 1rem rgba(0, 0, 0, .6);
+}
+
+
+
+.navimg {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.hrnav {
+  margin: 0;
+  color: #053d57;
+  border-top: solid #053d57 1px;
+  margin-left: 3%;
+  margin-right: 3%;
+  border-bottom: 0;
+}
+
+.hrbot {
+  padding-bottom: 2%;
+}
+
+.img404 {
+  width: 80%;
+}
+.center {
+  text-align: center;
+}
+
+.botonk {
+  width: 30%
+}
+
+.galeimg {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/*495057 PARA LETRAS PEQUEÑAS*/

@@ -1,0 +1,283 @@
+body {
+  background-color: #ebebea;
+  font-family: 'Quicksand';
+    text-align: center;
+}
+
+/* Navbar */
+
+.fontnav {
+  color: #053d57;
+  font-size: 120%;
+  font-family: 'Quicksand';
+}
+
+.navimg {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Footer */
+
+.footer-link {
+  margin: 10px 20px;
+  color: #68A1DF;
+}
+
+.footer-copyright {
+  color: #68A1DF;
+  font-size: 0.75rem;
+  line-height: 2;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+/* Font Styling */
+
+.fontlight {
+  font-weight: 300;
+}
+
+.fontregular {
+  font-weight: 400;
+}
+
+.fontmedium {
+  font-weight: 500;
+}
+
+.fontsemibold {
+  font-weight: 600;
+}
+
+.fontbold {
+  font-weight: 700;
+}
+
+.fontgris {
+  color: #053d57;
+}
+
+.font-md {
+  font-size: 2rem;
+}
+
+/* Containers & Color */
+
+.containerx3 {
+  background-color: #68A1DF;
+}
+
+.containerx4 {
+  background-color: #72E99C;
+}
+
+.BottomContainer {
+  background-color: #B8F4CD;
+  margin-bottom: 0;
+  padding: 15px 0;
+}
+
+.azulclaro {
+  background-color: #ABCAED;
+}
+
+.verdeclaro {
+  background-color: #B8F4CD;
+}
+
+.contindex1 {
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.contindex2 {
+  background-color: #72E99C;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, .6);
+}
+
+/* Carrousel */
+
+.flecha {
+  padding-left: 5.8rem;
+}
+
+.adelante:hover {
+  color: #f9f9f9;
+}
+
+/* Resources Multiple Pages */
+
+.whitebg {
+  background-color: white;
+}
+
+.no-margin {
+  margin-bottom: 0;
+}
+
+.padding-title-boxes {
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+.titulos {
+  font-size: 350%;
+}
+
+.img-icon {
+  max-width: 64%;
+  display: block;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.outer {
+  display: table;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
+
+.middle {
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.inner {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
+.left-align {
+  text-align: left;
+}
+
+.box-mas-modelos {
+  background-color: #68A1DF;
+  margin-left: 0;
+  padding-left: 0;
+  box-shadow: 0 0 1rem rgba(0, 0, 0, .6);
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
+/* Resources Galerias */
+
+.galeimg {
+  width: 100%;
+  display: block;
+}
+
+/* Index Page Body */
+
+.img-index-jaceplate {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 50%;
+}
+
+.img-mdf-index {
+  max-width: 100%;
+}
+
+.rowindex1 {
+  margin-right: 0;
+}
+
+.cajafichas {
+  padding: 15px;
+}
+
+.padindex {
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+.titulo1-index {
+  font-size: 500%;
+}
+
+.imgindex2 {
+  max-width: 64%;
+  display: block;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imgindex3 {
+  max-width: 80%;
+  display: block;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (max-width:767px) {
+  .cajafichas {
+    padding: 15px;
+    margin-left: 15px;
+  }
+}
+
+/* Aviones Page Body */
+
+.button-centre {
+  margin: auto;
+}
+
+.boton-aviones {
+  width: 100%;
+}
+
+.shadowy {
+  box-shadow: 0 0 1rem rgba(0, 0, 0, .6);
+}
+
+/* Kaydet Page Body */
+
+.boton-instructivos {
+  border-radius: 25px;
+  width: 65%;
+  height: auto;
+}
+
+.boton-forms {
+  width: 30%
+}
+
+/* Contactenos Page Body */
+
+.igico {
+  height: 200px;
+  width: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Galeria Page Body */
+
+.boton-galeria {
+  width: 100%;
+}
+
+/* Galeria Kaydet Page Body */
+
+
+
+/* 404 Page Body */
+
+.img404 {
+  width: 80%;
+}
+
+/*495057 PARA LETRAS PEQUEÑAS*/
